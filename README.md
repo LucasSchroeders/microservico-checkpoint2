@@ -13,7 +13,7 @@
 # Sobre Projeto
 Essa aplicação se trata de um CRUD, desenvolvido em formato de API, para o objeto Pedido, utilizando o Design Pattern Command. Para documentação da API, utlizamos o Swagger para facilitar quem for utilizar as APIs.
 
-##Tech
+## Tech
 Foi utilzado a linguagem Java para o desenvolvimento dessa aplicação
 
 ## Documentação Swagger
